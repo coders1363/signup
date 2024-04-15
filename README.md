@@ -13,6 +13,7 @@ In the real part, the necessary fields that must be entered are as follows:
 - _Name and surname_
 - _Phone number_
 - _Checking the applicant's application_
+
 In the legal section, the mandatory fields of the form are as follows::
 - _Company name_
 - _Company type_
