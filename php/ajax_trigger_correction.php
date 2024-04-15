@@ -1,4 +1,4 @@
-
+<?php
 if (isset($_POST["act"]))
 	$act = $_POST["act"];
 if (isset($_POST["actual_array"]))
@@ -28,4 +28,4 @@ else if ($act == "update_legal") {
 	die("1");
 	
 }
-
+?>
