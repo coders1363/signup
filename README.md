@@ -1,9 +1,9 @@
-# signup project
+# Signup project
 ![algorithm](algorithm.png)
 
 Algorithm practice
 
-# features
+# Features
 There are two options for the form:
 - __Genuine__ (The form is specific to one person)
 - __Legal__ (The form is specific to a company)
