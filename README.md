@@ -1,27 +1,12 @@
 # Signup project
 ![algorithm](algorithm.png)
 
-Algorithm practice
 
-# Features
-There are two options for the form:
-- __Genuine__ (The form is specific to one person)
+
+# There are two options for the form:
+- Explanation of the translator order registration process:
+
+This form is such that the user enters the specifications and file for translation and approval by the manager, and the translators perform the translation by confirming and giving the suggested amount to the user.
 - __Legal__ (The form is specific to a company)
 
-In the real part, the necessary fields that must be entered are as follows:
-- _National Code_
-- _Name and surname_
-- _Phone number_
-- _Checking the applicant's application_
 
-In the legal section, the mandatory fields of the form are as follows::
-- _Company name_
-- _Company type_
-- _National ID_
-- _Economic code_
-- _registration number_
-- _Place of registration_
-- _Date of Registration_
-- _Statute number_
-- _Date of Ad_
-- _Ad Number_
